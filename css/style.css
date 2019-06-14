@@ -1,0 +1,145 @@
+body{
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000;
+}
+
+/* UTILITY */
+.sample-btn{
+    display: inline-block;
+    margin:20px;
+    padding:15px 30px;
+}
+
+.btn-radius{
+    background-color: #292929;
+    padding:10px;
+    margin:20px;
+    color:#fff;
+}
+
+.rounded-btn{
+    color:#fff;
+    padding:10px;
+    margin:20px;
+}
+
+.btn-size{
+    background-color: #4472AC;
+    color:#fff;
+    margin:20px;
+}
+
+/* 1 IMAGE */
+.first-sample{
+    border:2px solid #000;
+}
+.second-sample{
+    border:2px solid #F8C013;
+}
+.third-sample{
+    border: 2px solid #D9473E;
+}
+.fourth-sample{
+    border: 2px solid #67CBFF;
+}
+
+/* 2 IMAGE */
+
+.bg-first{
+    background-color: #666666;
+    color:#fff;
+}
+.bg-second{
+    background-color: #F8C013;
+}
+.bg-third{
+    background-color: #F1625A;
+    color:#fff;
+}
+.bg-fourth{
+    background-color: #B9CCD2;
+}
+.bg-fifth{
+    background-color: #67CBFF;
+    color:#fff;
+}
+
+/* 3 IMAGE */
+.radius-first{
+    border-radius:10px 10px 10px 0;
+}
+.radius-second{
+    border-radius:10px 10px 0 10px;
+}
+.radius-third{
+    border-radius:10px 0 10px 10px;
+}
+.radius-fourth{
+    border-radius:0 10px 10px 10px;
+}
+.radius-fifth{
+    border-radius:10px 10px 0 0;
+}
+.radius-sixth{
+    border-radius:0 0 10px 10px;
+}
+.radius-seventh{
+    border-radius:10px 0 0 10px;
+}
+.radius-eighth{
+    border-radius:0 10px 10px 0;
+}
+/* 4 IMAGE */
+.rounded-first{
+    background-color: #7F1518;
+    border-radius: 5px;
+}
+.rounded-second{
+    background-color: #1A4691;
+    border-radius: 10px;
+}
+.rounded-third{
+    background-color: #216623;
+    border-radius: 15px;
+}
+.rounded-fourth{
+    background-color: #B38C2F;
+    border-radius: 20px;
+}
+
+/* 5 IMAGE */
+
+.btn-mini{
+    padding:8px 12px;
+    border-radius: 5px;
+}
+.btn-default{
+    padding:12px 16px;
+    border-radius: 5px;
+}
+.btn-large{
+    padding:16px 25px;
+    border-radius: 5px;
+}
+.btn-mini-rounded{
+    padding:8px 12px;
+    border-radius: 50px;
+}
+.btn-default-rounded{
+    padding:12px 16px;
+    border-radius: 50px
+}
+.btn-large-rounded{
+    padding:16px 25px;
+    border-radius: 50px;
+}
+
+/* 8 IMAGE */
+blockquote{
+    border-left:3px solid #E8E8E8;
+    padding-left:25px;
+}

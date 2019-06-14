@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+    background-image: url("https://cdn.pixabay.com/photo/2019/06/11/12/53/landscape-4266942_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top:400px;
+    color:#fff;
+}
+
+p{
+    font-size: 50px;
+}
+
+h1{
+   font-size: 80px;
+}
+
+a{
+    color:#fff;
+    text-decoration: none;
+    border-radius: 10px;
+    padding:20px 60px;
+    margin:10px;
+}
+.demo{
+    background-color: #3AAEE7;
+}
+
+.purchase{
+    background-color: #81C784;
+    padding:20px 40px;
+}
